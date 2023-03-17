@@ -1,0 +1,33 @@
+
+
+@media screen and  (min-width: 0px){
+    .rodapie__titulo{
+        margin-right: 0;
+        
+    }   
+
+    .WhatsApp{
+        width: 2rem;
+    }
+    .Email{
+        width: 2rem;
+    }
+    .Instagram{
+        width: 2rem;
+    }
+}
+
+@media screen and  (min-width: 768px){
+    .rodapie__titulo{
+        margin-right: 1.25rem;
+    }
+    .WhatsApp{
+        width: 3rem;
+    }
+    .Email{
+        width: 3rem;
+    }
+    .Instagram{
+        width: 3rem;
+    }
+}
